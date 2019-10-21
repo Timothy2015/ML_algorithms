@@ -1,6 +1,5 @@
-# learning_notes
+# learning_notes of ML Algorithms
 The codes and datas of my personal learning notes.
-# ML Algorithm
 ## 1 - SVM
 ### 1.1 SVM算法的理解
 >[参考博客：支持向量机—SVM原理代码实现](https://www.cnblogs.com/further-further-further/p/9596898.html)
